@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SMK Cyber Media
+[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)SMK Cyber Media
 =======================================================================================================================================
 
 Cerdas - Kreatif - Inovatif
@@ -6,10 +6,10 @@ Cerdas - Kreatif - Inovatif
 
 Vocational School based on Jakarta
 
-* 🌍  I'm based in Jakarta, Indonesia
+* 🌍  Based in Jakarta, Indonesia
 * ✉️  You can contact me at [info@cybermedia.sch.id](mailto: info@cybermedia.sch.id)
 
-### Skills
+### Tech
 
 
 <p align="left">
