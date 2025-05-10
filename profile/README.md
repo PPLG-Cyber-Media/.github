@@ -7,7 +7,7 @@ Cerdas - Kreatif - Inovatif
 Vocational School based on Jakarta
 
 * 🌍  Based in Jakarta, Indonesia
-* ✉️  You can contact me at [info@cybermedia.sch.id](mailto: info@cybermedia.sch.id)
+* ✉️  You can contact me at [info@cybermedia.sch.id]
 
 ### Tech
 
